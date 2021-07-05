@@ -465,6 +465,8 @@ body {
 }
 
 .hidden_ul {
+  margin: 0;
+  padding: 0;
   display: flex;
   text-align: center;
   justify-content: center;
@@ -476,7 +478,7 @@ body {
 }
 
 .hidden {
-  padding: 0;
+
   width: 10px;
   height: 10px;
   border-radius: 50%;
