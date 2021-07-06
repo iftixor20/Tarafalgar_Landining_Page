@@ -47,7 +47,6 @@ body {
   padding: 0px;
   background-color: #ffffff;
 }
-
 .container {
   max-width: 1400px;
   padding-left: 20px;
@@ -60,9 +59,9 @@ body {
 
 .header {
   display: flex;
-  margin-top: 56px;
+  padding-top: 56px;
   align-items: center;
-  margin-bottom: 56px;
+  padding-bottom: 56px;
   justify-content: space-between;
 }
 
@@ -94,7 +93,7 @@ body {
 
 .header_link:hover {
   opacity: 2;
-  color: #080808;
+  color: #0c08f5;
   background-color: #ffffff;
 }
 
